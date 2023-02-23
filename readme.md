@@ -8,13 +8,13 @@ let num =1;
 ```
 
 `
-cd learngit
-git init
-git clone https://github.com/KaidoMetsa/learngit.git
-git status
-git add README.md
-git commit -m "Update README.md with new information"
-git push origin main
+1. cd learngit
+2. git init
+3. git clone https://github.com/KaidoMetsa/learngit.git
+4. git status
+5. git add README.md
+6. git commit -m "Update README.md with new information"
+7. git push origin main
 `
 
 
