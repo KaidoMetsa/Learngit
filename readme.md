@@ -8,6 +8,8 @@ let num =1;
 ```
 
 `
+esimest korda
+
 1. cd learngit
 2. git init
 3. git clone https://github.com/KaidoMetsa/learngit.git
@@ -15,6 +17,18 @@ let num =1;
 5. git add README.md
 6. git commit -m "Update README.md with new information"
 7. git push origin main
+
+teist korda 
+
+cd /path/to/directory
+git clone https://github.com/KaidoMetsa/Learngit.git
+cd Learngit
+ls
+code README.md
+git add README.md
+git commit -m "Updated README.md"
+git push
+
 `
 
 
