@@ -24,6 +24,6 @@ Kodotöö commit + branch
 hello
 Teine_Branch_Bash
 
-2 nädal
+3 nädal
 
-06.03.2023
+13.03.2023
