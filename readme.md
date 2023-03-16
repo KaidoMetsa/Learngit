@@ -32,6 +32,13 @@ git push
 `
 
 
+git checkout main
+npm create vite@latest learnsvelte -- --template svelte
+
+
+
+
+
 ______________________________
 
 # Kodotöö commit + branch 
